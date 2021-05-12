@@ -24,6 +24,7 @@ create class  `Store`
 `search`  to search in products using `productName` or `productDescription`or `productNumber` 
 
 examples  `search("Apple")`    `search('1069374430')`   `search('128 GB ')`
+
 8. instantiate the class into a new variable  `store` 
 9. use the method `addProduct` to add the `iphone`
 
