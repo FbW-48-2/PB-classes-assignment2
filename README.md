@@ -1,5 +1,5 @@
 ## Classes  Assignment
-1. create class product `Product`
+1. create class  `Product`
 2. Add a constructor
 3.  Inside the constructor define  the below props : 
 `productName` `productDescription` `productNumber`
